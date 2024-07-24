@@ -1,0 +1,1 @@
+ssh -o "SetEnv SECRET=mYMgusLKYXlaiYnaFHIHRYPM" root@lulz.segfault.net
